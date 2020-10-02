@@ -18,7 +18,7 @@ function replaceSVG() {
         }
     }
     
-    setTimeout(replaceSVG, 5000);
+    setTimeout(replaceSVG, 2000);
 }
 
 setTimeout(replaceSVG, 3000);
