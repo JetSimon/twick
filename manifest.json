@@ -1,0 +1,21 @@
+  {
+    "name": "twick",
+    "version": "1.0",
+    "description": "Make your twitter more masculine!",
+    "permissions": ["declarativeContent", "storage"],
+    "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "js": ["twick.js"]
+    }
+  ],
+    "manifest_version": 2,
+      
+    "browser_action": {
+    "default_title": "twick",
+    "default_icon": {
+      "128": "images/twick.png"
+    }}
+  }
