@@ -3,4 +3,6 @@
 
 Currently to install you must download folder and add as extension in chrome developer mode.
 
-![twick in action](promo.png)
+<p align="center">
+  <img width="540" height="675" src="promo.png">
+</p>
