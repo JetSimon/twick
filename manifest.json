@@ -2,7 +2,7 @@
     "name": "twick",
     "version": "1.0",
     "description": "Make your twitter more masculine!",
-    "permissions": ["declarativeContent", "storage"],
+    "permissions": ["declarativeContent"],
     "content_scripts": [
     {
       "matches": [
@@ -17,5 +17,9 @@
     "default_title": "twick",
     "default_icon": {
       "128": "images/twick.png"
-    }}
+    }},
+      
+    "icons": {
+    "128": "images/twick.png"
+  }
   }
