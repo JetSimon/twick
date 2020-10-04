@@ -1,7 +1,7 @@
 # twick
  A chrome extension that gives twitter that masculine edge
 
-Currently to install you must download folder and add as extension in chrome developer mode.
+Install it by downloading here and adding in dev tools, or simply [install on the chrome store by clicking here](https://chrome.google.com/webstore/detail/twick/loacamonjlmdcellifkbfpdbimbadjmd) and give five stars!
 
 <p align="center">
   <img width="540" height="675" src="promopic.png">
